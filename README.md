@@ -1,7 +1,7 @@
 Food Ordering, Delivery, and Management Web Application
 Technologies Used: HTML, CSS, PHP, MySQL, JavaScript 
 
-Project Overview:
+Project Overview: 
 Designed and developed a full-featured online food ordering and delivery management system. The platform caters to both customers and administrators, enabling users to order food seamlessly while giving admins complete control over restaurant operations.
 
 This system is built with a responsive front-end using HTML and CSS, connected to a PHP-powered backend and a MySQL database for persistent data management. The application streamlines the entire workflow — from browsing food items to placing orders, generating bills, tracking deliveries, and managing the restaurant menu and orders through a secure admin panel.
